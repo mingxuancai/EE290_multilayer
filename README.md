@@ -1,4 +1,4 @@
-# Aperiodic Mo/Si EUV Multilayers — Computational Study
+# Aperiodic Mo/Si EUV Multilayers — EE 290 Group 2
 
 A Python codebase studying whether **aperiodic** (non-uniform-thickness) Mo/Si multilayer
 mirrors can deliver higher reflectivity than conventional periodic Bragg stacks at
