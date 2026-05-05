@@ -18,8 +18,8 @@ The repository implements:
 
 ## Research Question
 
-> Can aperiodic Mo/Si multilayer stacks beat conventional periodic stacks in
-> reflectivity, and does the advantage scale with the angular operating window?
+> Aperiodic multilayers for EUVL: do they increase reflectivity and will they also be
+beneficial for larger swings of the incident angle?
 
 **Short answer (from the experiments here):**
 
